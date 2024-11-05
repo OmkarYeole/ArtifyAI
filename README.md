@@ -2,6 +2,20 @@
 
 Artify AI is an interactive application that combines the power of AI to deliver a versatile user experience. Designed to be a creative and informative assistant, Artify AI lets users engage with AI in multiple ways—through text, image, and audio inputs—making it a flexible tool for various needs. Leveraging models similar to ChatGPT, Artify AI enables users to ask questions and receive intelligent responses while also exploring image recognition and speech-to-text capabilities.
 
+# Tech Stack
+## Frontend: Streamlit
+
+## Backend: Python
+
+## LLM Models:
+**Audio Recognition:** OpenAI Whisper small model
+
+**Image Recognition:** Hugging Face Llava mmproj-model-f16
+
+**Text handling:** Mistral 7b instruct model
+
+**Handling Embeddings:** Hugging Face BGE large v1.5 model
+
 # Features
 
 **Text-based AI Interactions:** Ask questions directly to the AI and receive context-aware responses. Artify AI serves as a virtual assistant, equipped to handle inquiries on diverse topics, similar to ChatGPT.
